@@ -1,6 +1,8 @@
 # Drone Routing
 
-This is an interesting routing problem which I encountered.
+This is an interesting routing problem which I encountered recently.
+It's NP-Hard and finding an optimal solution is infeasible, so the solution
+has to be approximated.
 
 ## Problem
 
