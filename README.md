@@ -4,6 +4,8 @@ This is an interesting routing problem which I encountered recently.
 It's NP-Hard and finding an optimal solution is infeasible, so the solution
 has to be approximated.
 
+![screenshot](screenshot.png)
+
 ## Problem
 
 Construct a search algorithm to find the optimal (shortest time) path for an electric drone through the given network of charging platforms. Different chargers charge the drone at different rates. The drone does not have to fully charge at any visited charging platform, as long as the drone never runs out of charge while in-flight.
